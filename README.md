@@ -10,7 +10,7 @@ In the first milestone, I performed exploratory data analysis (EDA) and data pre
 
 ### Data Preprocessing
 
-Tokenization: Splitting text into individual tokens.
+*Tokenization*: Splitting text into individual tokens.
 
 Lemmatization: Reducing words to their base or root form.
 
