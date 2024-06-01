@@ -10,21 +10,23 @@ In the first milestone, I performed exploratory data analysis (EDA) and data pre
 
 ### Data Preprocessing
 
-*Tokenization*: Splitting text into individual tokens.
+**Tokenization**:  Splitting text into individual tokens.
 
-Lemmatization: Reducing words to their base or root form.
+**Lemmatization**:  Reducing words to their base or root form.
 
-Removing Stop Words: Eliminating common words that do not contribute to the model's performance.
+**Removing Stop Words**:  Eliminating common words that do not contribute to the model's performance.
 
-Removing Punctuation: Stripping out punctuation marks.
+**Removing Punctuation**: Stripping out punctuation marks.
 
 ## Milestone 2: Building a Neural Network Model
 
 In the second milestone, I built a neural network model from scratch without using any pre-trained models. The architecture consists of the following layers:
 
-1) Embedding Layer: Converts words into dense vectors of fixed size.
-2) Bi-LSTM Layer: Captures long-term dependencies in the text using Bidirectional Long Short-Term Memory (LSTM) units.
-3) Dense Layer: Outputs the probability distribution over POS tags.
+1) **Embedding Layer**: Converts words into dense vectors of fixed size.
+  
+2) **Bi-LSTM Layer**: Captures long-term dependencies in the text using Bidirectional Long Short-Term Memory (LSTM) units.
+
+3) **Dense Layer**: Outputs the probability distribution over POS tags.
 
 ### Model Performance
 
