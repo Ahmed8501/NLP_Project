@@ -1,6 +1,8 @@
 # POS Sequence Tagging
 
 ## Project Overview
+This project is part of the NLP course in my masters degree at the GUC. 
+
 
 This project aims to perform Part-of-Speech (POS) tagging using Natural Language Processing (NLP) techniques. The project is divided into three main milestones, each focusing on different aspects of the POS tagging process, from data preprocessing to building and fine-tuning neural network models.
 
