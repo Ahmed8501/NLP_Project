@@ -30,9 +30,6 @@ In the second milestone, I built a neural network model from scratch without usi
 
 3) **Dense Layer**: Outputs the probability distribution over POS tags.
 
-### Model Performance
-
-Achieved an accuracy of 99% on the test dataset.
 
 ## Milestone 3: Fine-Tuning with a Pre-Trained Model
 
